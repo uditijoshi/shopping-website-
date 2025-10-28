@@ -38,7 +38,7 @@ function display_items_on_home(){
 
 const item=[
     {item_id:'101',
-    item_image:'images/w1.webp',
+    item_image:'images/k0.jpg',
     rating:{
     stars:4.5,
     no_review:1.3,},
